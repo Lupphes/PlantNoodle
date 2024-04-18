@@ -161,3 +161,5 @@ cython_debug/
 
 # data folder
 data/
+notebooks/best_model.keras
+notebooks/submission.csv
