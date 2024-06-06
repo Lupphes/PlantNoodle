@@ -22,7 +22,7 @@ We utilized this notebook to modify the Keras starter notebook, try out differen
 
 Moreover, to compare different tabular data models and augmentations, we used the following notebook:
 
-- [Tabular Model Notebook](https://www.kaggle.com/code/luepoe/tabular-data-training) **NOT PUBLIC YET CHANGE**
+- [Tabular Model Notebook](https://www.kaggle.com/code/luepoe/tabular-data-training)
 
 For implementing image segmentation, filtering by segmentation, and label-free segmentation, the following notebooks were used to run many tests:
 
@@ -41,8 +41,8 @@ Before creating an ensemble, we tried many changes in the ImageNet notebook to s
 
 Our stacked ensemble was built by performing several tests in multiple notebooks, listed below:
 
-- [Stacked Ensemble Notebook](https://www.kaggle.com/code/luepoe/stacked-ensemble) **NOT PUBLIC YET CHANGE**
-- [Stacked Ensemble V2 Notebook](https://www.kaggle.com/code/luepoe/v2-stacked-ensemble) **NOT PUBLIC YET CHANGE**
+- [Stacked Ensemble Notebook](https://www.kaggle.com/code/luepoe/stacked-ensemble)
+- [Stacked Ensemble V2 Notebook](https://www.kaggle.com/code/luepoe/v2-stacked-ensemble)
 
 For our ensemble, we wanted to use the EDA notebook on Kaggle, which we made many variations on:
 
