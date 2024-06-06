@@ -34,7 +34,7 @@ As we wanted to try more and large ranges of image augmentations, we used the fo
 - [Plant Notebook](https://www.kaggle.com/code/tygofrancissen/plant-notebook)
 - [Plant Notebook (small tests)](https://www.kaggle.com/code/dickblankvoort/plant-notebook)
 
-Before creating an ensemble, we tried many changes in the ImageNet notebook to search for optimizations. This involved changing the loss, R2, LR calculations, adding segmentation. Also, things like a magnitude difference test were done:
+Before creating an ensemble, we tried many changes in the ImageNet notebook to search for optimizations. This involved changing the loss, R2, LR calculations, and adding segmentation. Also, things like a magnitude difference test (scaling the output values to match well-performing models) were done:
 
 - [INet Improve Notebook](https://www.kaggle.com/code/dickblankvoort/inet-improve-model)
 - [INet Magnitude Notebook](https://www.kaggle.com/code/dickblankvoort/inet-magnitude-difference-test)
@@ -58,7 +58,7 @@ Finally, this notebook we created combines all models to create an ensemble and 
 
 ### Datasets
 
-To be able to store data and models to be used in mostly the ensemble, we created several data sets on Kaggle:
+To be able to store modifications to the data as well as various pretrained models, we created several data sets and models on Kaggle:
 
 - [Botany Model](https://www.kaggle.com/datasets/tygofrancissen/botany-output): This data set contains the output for one of the use models in the ensemble.
 - [CatBoost Model](https://www.kaggle.com/datasets/luepoe/tdt-catboost-best-0-15450): Contains the output weights for our best CatBoost model.
